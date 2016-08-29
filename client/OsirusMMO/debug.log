@@ -1,0 +1,1071 @@
+[0826/173600:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0826/173600:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0826/173600:ERROR:cache_creator.cc(127)] Unable to create cache
+[0826/173600:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0826/173600:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0826/173600:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0826/173600:ERROR:cache_creator.cc(127)] Unable to create cache
+[0826/173600:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0826/173600:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0826/173600:ERROR:cache_creator.cc(127)] Unable to create cache
+[0826/173600:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0826/174029:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0826/174029:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0826/193631:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0826/193631:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0826/193631:ERROR:cache_creator.cc(127)] Unable to create cache
+[0826/193631:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0826/193631:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0826/193631:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0826/193631:ERROR:cache_creator.cc(127)] Unable to create cache
+[0826/194312:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0826/194312:WARNING:channel.cc(358)] RawChannel write error
+[0826/194312:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0826/225229:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0826/225229:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0826/225229:ERROR:cache_creator.cc(127)] Unable to create cache
+[0826/225229:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0826/225229:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0826/225229:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0826/225229:ERROR:cache_creator.cc(127)] Unable to create cache
+[0826/225229:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0826/225229:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0826/225229:ERROR:cache_creator.cc(127)] Unable to create cache
+[0826/225229:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0826/225327:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0826/225327:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0826/225327:ERROR:cache_creator.cc(127)] Unable to create cache
+[0826/225327:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0826/225327:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0826/225327:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0826/225327:ERROR:cache_creator.cc(127)] Unable to create cache
+[0826/225548:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0826/225548:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0826/225548:ERROR:cache_creator.cc(127)] Unable to create cache
+[0826/225548:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0826/225548:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0826/225548:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0826/225548:ERROR:cache_creator.cc(127)] Unable to create cache
+[0826/225625:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0826/225625:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0826/225625:ERROR:cache_creator.cc(127)] Unable to create cache
+[0826/225625:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0826/225625:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0826/225625:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0826/225625:ERROR:cache_creator.cc(127)] Unable to create cache
+[0826/225903:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0826/225905:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0826/225905:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0826/225905:WARNING:channel.cc(358)] RawChannel write error
+[0826/225916:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0826/225916:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0826/225916:ERROR:cache_creator.cc(127)] Unable to create cache
+[0826/225916:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0826/225922:ERROR:connection.cc(1324)] Cookie sqlite error 5, errno 33: database is locked, sql: COMMIT
+[0826/225922:ERROR:connection.cc(1324)] Cookie sqlite error 5, errno 33: database is locked, sql: PRAGMA journal_mode = TRUNCATE
+[0826/225922:ERROR:connection.cc(1324)] Cookie sqlite error 5, errno 33: database is locked, sql: CREATE INDEX is_transient ON cookies(persistent) where persistent != 1
+[0826/225922:ERROR:connection.cc(1324)] Cookie sqlite error 1, errno 33: table meta already exists, sql: CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR)
+[0826/225922:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0826/225922:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0826/225922:ERROR:cache_creator.cc(127)] Unable to create cache
+[0826/225922:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0826/225922:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0826/225922:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0826/225922:ERROR:cache_creator.cc(127)] Unable to create cache
+[0826/225922:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0826/225922:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0826/225922:ERROR:cache_creator.cc(127)] Unable to create cache
+[0826/225922:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0826/225922:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0826/225922:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0826/225922:ERROR:cache_creator.cc(127)] Unable to create cache
+[0826/230819:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0826/230819:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0826/230819:ERROR:cache_creator.cc(127)] Unable to create cache
+[0826/230819:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0826/230819:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0826/230819:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0826/230819:ERROR:cache_creator.cc(127)] Unable to create cache
+[0826/231326:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0826/231326:WARNING:channel.cc(358)] RawChannel write error
+[0826/231326:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0826/231326:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0826/231326:WARNING:channel.cc(358)] RawChannel write error
+[0826/231326:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0826/231347:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0826/231347:WARNING:channel.cc(358)] RawChannel write error
+[0826/231347:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0826/231347:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0826/231347:WARNING:channel.cc(358)] RawChannel write error
+[0826/231347:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0826/231503:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0826/231503:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0826/231503:ERROR:cache_creator.cc(127)] Unable to create cache
+[0826/231503:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0826/231503:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0826/231503:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0826/231503:ERROR:cache_creator.cc(127)] Unable to create cache
+[0826/231549:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0826/231549:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0826/231549:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0826/231549:WARNING:channel.cc(358)] RawChannel write error
+[0826/231612:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0826/231612:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0826/231612:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0826/231612:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0826/231612:WARNING:channel.cc(358)] RawChannel write error
+[0827/003230:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/003230:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/003230:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/003230:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/003230:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0827/003230:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0827/003230:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/003230:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/003230:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/003230:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/003230:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/005820:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/005820:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0827/005820:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/010700:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/010700:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/010700:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/010700:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/010700:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0827/010700:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0827/010700:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/010713:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/010713:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/010713:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/010713:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/010716:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0827/010716:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0827/010716:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/010812:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/010812:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/010812:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/010812:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/010812:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0827/010812:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0827/010812:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/010816:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/010816:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/010816:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/010816:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/010816:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0827/010816:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0827/010816:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/011037:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/011037:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/011037:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/011037:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/011037:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/011037:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/011037:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/011037:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/011037:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0827/011037:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0827/011037:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/024959:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0827/024959:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0827/024959:WARNING:channel.cc(358)] RawChannel write error
+[0827/024959:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0827/025125:ERROR:webgraphicscontext3d_command_buffer_impl.cc(208)] CommandBufferProxy::Initialize failed.
+[0827/025125:ERROR:webgraphicscontext3d_command_buffer_impl.cc(227)] Failed to initialize command buffer.
+[0827/025125:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0827/025125:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/025125:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/025125:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/025125:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/025125:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/025125:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/025125:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/025125:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0827/025125:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0827/025125:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/111243:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/111243:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/111243:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/111243:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/111243:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/111243:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/111243:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/111243:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/111243:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0827/111243:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0827/111243:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/111436:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/111436:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/111436:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/111436:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/112829:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0827/112829:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0827/112829:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0827/112829:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0827/112829:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0827/112829:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0827/112829:WARNING:channel.cc(358)] RawChannel write error
+[0827/113046:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/113046:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/113046:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/113046:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/113046:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/113046:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/113046:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/113046:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/113046:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0827/113046:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0827/113046:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/113413:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0827/113413:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0827/113902:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0827/113902:WARNING:channel.cc(358)] RawChannel write error
+[0827/114142:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/114142:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/114142:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/114142:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/114142:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/114142:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/114142:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/114142:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/114142:ERROR:connection.cc(1324)] Cookie sqlite error 5, errno 33: database is locked, sql: DELETE FROM cookies WHERE persistent != 1
+[0827/114142:WARNING:sqlite_persistent_cookie_store.cc(1247)] Unable to delete session cookies.
+[0827/114142:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0827/114142:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0827/114142:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/114742:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0827/114742:WARNING:channel.cc(358)] RawChannel write error
+[0827/114742:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0827/114742:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0827/114742:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0827/114742:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0827/114742:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0827/114742:WARNING:channel.cc(358)] RawChannel write error
+[0827/115517:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/115517:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/115517:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/115517:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/115517:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/115517:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/115517:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/115517:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/115517:ERROR:connection.cc(1324)] Cookie sqlite error 5, errno 33: database is locked, sql: DELETE FROM cookies WHERE persistent != 1
+[0827/115517:WARNING:sqlite_persistent_cookie_store.cc(1247)] Unable to delete session cookies.
+[0827/115517:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0827/115517:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0827/115517:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/115604:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/115604:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/115604:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/115604:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/115626:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0827/115626:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0827/115626:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0827/115626:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0827/115626:WARNING:channel.cc(358)] RawChannel write error
+[0827/120223:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0827/120223:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0827/120223:WARNING:channel.cc(358)] RawChannel write error
+[0827/120308:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/120308:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/120308:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/120308:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/120308:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/120308:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/120308:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/120308:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/120308:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0827/120308:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0827/120308:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/122512:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0827/122512:WARNING:channel.cc(358)] RawChannel write error
+[0827/122512:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0827/122512:WARNING:channel.cc(358)] RawChannel write error
+[0827/122512:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0827/122512:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0827/122641:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/122641:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/122641:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/122641:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/122641:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/122641:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/122641:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/122641:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/122641:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0827/122641:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0827/122641:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/122820:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0827/122820:WARNING:channel.cc(358)] RawChannel write error
+[0827/122820:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0827/122820:WARNING:channel.cc(358)] RawChannel write error
+[0827/122820:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0827/122820:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0827/123015:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/123015:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/123015:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/123015:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/123015:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/123015:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/123015:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/123015:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/123015:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0827/123015:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0827/123015:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/133826:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/133826:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/133826:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/133826:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/134645:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0827/134645:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0827/134645:WARNING:channel.cc(358)] RawChannel write error
+[0827/134645:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0827/134744:ERROR:webgraphicscontext3d_command_buffer_impl.cc(208)] CommandBufferProxy::Initialize failed.
+[0827/134744:ERROR:webgraphicscontext3d_command_buffer_impl.cc(227)] Failed to initialize command buffer.
+[0827/134744:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0827/134744:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/134744:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/134744:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/134744:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/134744:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/134744:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/134744:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/134744:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0827/134744:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0827/134744:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/134946:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/134946:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/134946:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/134946:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/135011:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0827/135011:WARNING:channel.cc(358)] RawChannel write error
+[0827/135011:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0827/135011:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0827/135011:WARNING:channel.cc(358)] RawChannel write error
+[0827/135011:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0827/135045:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/135045:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/135045:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/135045:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/135045:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/135045:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/135045:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/135045:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/135045:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0827/135045:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0827/135045:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/135109:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/135109:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/135109:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/135109:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/135230:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0827/135230:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0827/135230:WARNING:channel.cc(358)] RawChannel write error
+[0827/135230:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0827/155449:WARNING:ipc_channel_win.cc(360)] Unable to create pipe "\\.\pipe\chrome.3428.1.3923018" in client mode: The system cannot find the file specified. (0x2)
+[0827/155449:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/155449:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/155449:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/155449:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/155532:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0827/155635:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/155635:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/155635:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/155635:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/155635:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0827/155635:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0827/155635:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/155635:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/155635:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/155635:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/155635:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/155928:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0827/155928:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0827/155928:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0827/155928:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0827/155928:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0827/155944:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/155944:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/155944:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/155944:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/155944:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0827/155944:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0827/155944:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/155950:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/155950:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/155950:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/155950:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/155950:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0827/155950:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0827/155950:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/155955:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/155955:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/155955:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/155955:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/155955:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0827/155955:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0827/155955:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/160554:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/160554:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/160554:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/160554:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/160554:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0827/160554:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0827/160554:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/162650:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0827/163119:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/163119:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/163119:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/163119:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/163119:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/163119:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/163119:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/163119:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/163119:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0827/163119:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0827/163119:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/163133:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0827/163133:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0827/163133:WARNING:channel.cc(358)] RawChannel write error
+[0827/163133:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0827/163133:WARNING:channel.cc(358)] RawChannel write error
+[0827/163133:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0827/185733:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0827/185751:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/185751:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/185751:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/185751:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/185751:ERROR:connection.cc(1324)] Cookie sqlite error 5, errno 33: database is locked, sql: DELETE FROM cookies WHERE persistent != 1
+[0827/185751:WARNING:sqlite_persistent_cookie_store.cc(1247)] Unable to delete session cookies.
+[0827/185751:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/185751:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/185751:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/185751:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/185751:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0827/185751:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0827/185751:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/191951:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/191951:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/191951:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/191951:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/191951:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/191951:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/191951:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/191951:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/191951:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0827/191951:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0827/191951:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/194909:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0827/194909:WARNING:channel.cc(358)] RawChannel write error
+[0827/194909:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0827/194909:WARNING:channel.cc(358)] RawChannel write error
+[0827/194909:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0827/194909:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0827/195122:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/195122:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/195122:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/195122:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/195122:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/195122:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/195122:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/195122:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/195122:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0827/195122:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0827/195122:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/211131:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0827/211131:WARNING:channel.cc(358)] RawChannel write error
+[0827/211131:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0827/211131:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0827/211131:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0827/211131:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0827/211131:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0827/211131:WARNING:channel.cc(358)] RawChannel write error
+[0827/215027:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/215027:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/215027:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/215027:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/215027:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/215027:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/215027:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/215027:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/215027:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0827/215027:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0827/215027:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/215835:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0827/215835:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0827/215835:WARNING:channel.cc(358)] RawChannel write error
+[0827/224241:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/224241:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/224241:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/224241:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/224241:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0827/224241:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0827/224241:ERROR:cache_creator.cc(127)] Unable to create cache
+[0827/224241:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0827/224241:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0827/224241:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0827/224241:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/022606:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/022606:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/022606:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/022606:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/022606:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/022606:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/022606:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/022606:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/022606:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0828/022606:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0828/022606:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/023647:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/023647:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/023647:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/023647:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/023647:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0828/023647:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0828/023647:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/025505:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0828/025505:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0828/025505:WARNING:channel.cc(358)] RawChannel write error
+[0828/025505:WARNING:channel.cc(358)] RawChannel write error
+[0828/025505:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0828/025505:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0828/031313:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0828/031320:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/031320:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/031320:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/031320:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/031320:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/031320:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/031320:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/031320:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/031320:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0828/031320:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0828/031320:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/031549:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0828/031549:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0828/031549:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0828/031549:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0828/031549:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0828/031549:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0828/031549:WARNING:channel.cc(358)] RawChannel write error
+[0828/031703:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/031703:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/031703:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/031703:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/031703:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/031703:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/031703:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/031703:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/031703:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0828/031703:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0828/031703:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/032647:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/032647:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/032647:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/032647:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/032647:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0828/032647:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0828/032647:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/041344:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/041344:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/041344:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/041344:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/041344:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0828/041344:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0828/041344:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/042549:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/042549:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/042549:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/042549:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/042549:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0828/042549:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0828/042549:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/051607:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0828/051607:WARNING:channel.cc(358)] RawChannel write error
+[0828/051607:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0828/051607:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0828/051607:WARNING:channel.cc(358)] RawChannel write error
+[0828/051657:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/051657:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/051657:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/051657:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/051657:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/051657:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/051657:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/051657:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/051657:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0828/051657:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0828/051657:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/052402:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/052402:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/052402:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/052402:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/052402:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0828/052402:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0828/052402:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/053306:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/053306:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/053306:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/053306:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/053306:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0828/053306:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0828/053306:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/054737:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0828/054737:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0828/054737:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0828/054737:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0828/054737:WARNING:channel.cc(358)] RawChannel write error
+[0828/054819:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0828/054819:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0828/054819:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0828/054819:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0828/054819:WARNING:channel.cc(358)] RawChannel write error
+[0828/054836:ERROR:webgraphicscontext3d_command_buffer_impl.cc(208)] CommandBufferProxy::Initialize failed.
+[0828/054836:ERROR:webgraphicscontext3d_command_buffer_impl.cc(227)] Failed to initialize command buffer.
+[0828/054836:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/054836:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/054836:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/054836:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/054836:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0828/054836:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/054836:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/054836:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/054836:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0828/054836:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0828/054836:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/055126:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/055126:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/055126:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/055126:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/055126:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0828/055126:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0828/055126:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/055132:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0828/055132:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0828/055132:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0828/060803:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/060803:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0828/060803:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/060810:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0828/060818:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/060818:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/060818:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/060818:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/060818:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0828/060818:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0828/060818:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/060818:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/060818:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/060818:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/060818:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/060818:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0828/060818:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0828/060818:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/143229:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0828/143229:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0828/143229:WARNING:channel.cc(358)] RawChannel write error
+[0828/143229:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0828/143247:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0828/143258:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0828/143258:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0828/143304:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/143304:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/143304:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/143304:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/143304:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/143304:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/143304:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/143304:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/143304:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0828/143304:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0828/143304:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/143809:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/143809:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/143809:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/143809:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/143809:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0828/143809:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0828/143809:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/143837:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0828/143837:WARNING:channel.cc(358)] RawChannel write error
+[0828/143837:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0828/143837:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0828/143837:WARNING:channel.cc(358)] RawChannel write error
+[0828/143837:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0828/144215:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/144215:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/144215:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/144215:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/144215:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/144215:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/144215:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/144215:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/144215:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0828/144215:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0828/144215:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/144229:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0828/144229:WARNING:channel.cc(358)] RawChannel write error
+[0828/144229:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0828/144229:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0828/144229:WARNING:channel.cc(358)] RawChannel write error
+[0828/144229:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0828/144414:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0828/144414:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0828/144414:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0828/144414:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0828/144414:WARNING:channel.cc(358)] RawChannel write error
+[0828/144509:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0828/144509:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0828/144509:WARNING:channel.cc(358)] RawChannel write error
+[0828/144556:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0828/144602:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/144602:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/144602:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/144602:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/144602:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0828/144602:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0828/144602:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/144602:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/144602:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/144602:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/144602:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/145025:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/145025:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/145025:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/145025:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/145025:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0828/145025:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0828/145025:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/145025:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/145025:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/145025:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/145025:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/145112:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0828/145112:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0828/145112:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0828/145112:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0828/145112:WARNING:channel.cc(358)] RawChannel write error
+[0828/145112:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0828/145112:WARNING:channel.cc(358)] RawChannel write error
+[0828/150914:ERROR:webgraphicscontext3d_command_buffer_impl.cc(208)] CommandBufferProxy::Initialize failed.
+[0828/150914:ERROR:webgraphicscontext3d_command_buffer_impl.cc(227)] Failed to initialize command buffer.
+[0828/150914:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0828/150914:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/150914:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/150914:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/150914:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0828/150914:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0828/150914:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/150914:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/150914:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/150914:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/150914:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/153330:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/153330:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/153330:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/153330:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/153330:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/153330:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/153330:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/153330:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/153330:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0828/153330:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0828/153330:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/153450:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0828/153450:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0828/153450:WARNING:channel.cc(358)] RawChannel write error
+[0828/153450:WARNING:channel.cc(358)] RawChannel write error
+[0828/153450:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0828/153450:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0828/155142:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/155142:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/155142:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/155142:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/155142:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/155142:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/155142:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/155142:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/155142:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0828/155142:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0828/155142:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/155628:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/155628:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/155628:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/155628:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/155628:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0828/155628:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0828/155628:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/155749:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/155749:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/155749:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/155749:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/155749:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0828/155749:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0828/155749:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/155806:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/155806:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/155806:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/155806:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/155806:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0828/155806:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0828/155806:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/155840:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/155840:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/155840:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/155840:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/155843:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/155843:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/155843:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/155843:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/155843:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0828/155843:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0828/155843:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/155843:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/155843:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/155843:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/155843:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/155843:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0828/155843:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0828/155843:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/163130:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/163130:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/163130:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/163130:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/163130:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0828/163130:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0828/163130:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/164016:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0828/164016:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0828/164016:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0828/164016:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0828/164016:WARNING:channel.cc(358)] RawChannel write error
+[0828/164022:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0828/164023:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0828/164023:WARNING:channel.cc(358)] RawChannel write error
+[0828/164023:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0828/164023:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0828/164023:WARNING:channel.cc(358)] RawChannel write error
+[0828/164023:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0828/164028:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0828/164028:WARNING:channel.cc(358)] RawChannel write error
+[0828/164028:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0828/164128:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/164128:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/164128:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/164128:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/164128:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/164128:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/164128:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/164128:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/164128:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0828/164128:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0828/164128:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/164418:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0828/164418:WARNING:channel.cc(358)] RawChannel write error
+[0828/164418:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0828/164418:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0828/164418:WARNING:channel.cc(358)] RawChannel write error
+[0828/164418:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0828/164453:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/164453:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/164453:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/164453:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/164453:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/164453:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/164453:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/164453:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/164454:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0828/164454:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0828/164454:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/164514:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0828/164514:WARNING:channel.cc(358)] RawChannel write error
+[0828/164514:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0828/164514:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0828/164514:WARNING:channel.cc(358)] RawChannel write error
+[0828/164514:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0828/165156:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/165156:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/165156:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/165156:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/165156:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/165156:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/165156:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/165156:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/165156:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0828/165156:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0828/165156:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/170044:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/170044:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/170044:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/170044:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/170044:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0828/170044:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0828/170044:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/170243:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/170244:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/170244:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/170244:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/170244:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0828/170244:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0828/170244:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/170348:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/170348:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/170348:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/170348:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/170348:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0828/170348:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0828/170348:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/170434:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/170434:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/170434:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/170434:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/170434:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0828/170434:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0828/170434:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/171054:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/171054:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/171054:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/171054:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/171054:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/171054:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/171054:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/171054:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/171054:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0828/171054:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0828/171054:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/171124:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/171124:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/171124:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/171124:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/171124:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0828/171124:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0828/171124:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/171310:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0828/171310:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0828/171310:WARNING:channel.cc(358)] RawChannel write error
+[0828/171310:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0828/171504:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0828/171504:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0828/171504:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0828/171504:WARNING:channel.cc(358)] RawChannel write error
+[0828/171520:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/171520:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/171520:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/171520:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/171520:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/171520:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/171520:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/171520:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/171520:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0828/171520:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0828/171520:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/171558:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/171558:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/171558:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/171558:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/171558:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0828/171558:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0828/171558:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/172152:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0828/172152:WARNING:channel.cc(358)] RawChannel write error
+[0828/172152:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0828/172152:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0828/172152:WARNING:channel.cc(358)] RawChannel write error
+[0828/172152:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0828/172240:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0828/172240:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0828/172240:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0828/172240:WARNING:channel.cc(358)] RawChannel write error
+[0828/175047:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/175047:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/175047:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/175047:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/175047:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/175047:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/175047:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/175047:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/180301:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0828/180301:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0828/180301:WARNING:channel.cc(358)] RawChannel write error
+[0828/180301:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0828/180344:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/180344:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/180344:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/180344:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/180344:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/180344:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/180344:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/180344:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/180344:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0828/180344:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0828/180344:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/193752:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/193752:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/193752:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/193752:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/193752:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0828/193752:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0828/193752:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/193818:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0828/193818:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0828/193818:WARNING:channel.cc(358)] RawChannel write error
+[0828/193818:WARNING:channel.cc(358)] RawChannel write error
+[0828/193818:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0828/193818:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0828/194016:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/194016:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/194016:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/194016:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/194016:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/194016:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/194016:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/194016:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/194016:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0828/194016:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0828/194016:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/225322:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0828/225322:WARNING:channel.cc(358)] RawChannel write error
+[0828/225322:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0828/225503:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0828/225503:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0828/230135:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/230135:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/230135:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/230135:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/230135:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0828/230135:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache\GPUCache to C:\Users\tim\AppData\Local\kokua\cef_cache\old_GPUCache_000
+[0828/230135:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/230135:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0828/230135:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0828/230135:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\tim\AppData\Local\kokua\cef_cache to C:\Users\tim\AppData\Local\kokua\old_cef_cache_000
+[0828/230135:ERROR:cache_creator.cc(127)] Unable to create cache
+[0828/230331:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0828/230331:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0828/230331:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0828/230331:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0828/230331:WARNING:channel.cc(358)] RawChannel write error
+[0828/230331:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0828/230331:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0828/230331:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0828/230331:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0828/230331:WARNING:channel.cc(358)] RawChannel write error
+[0829/003642:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0829/003642:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Windows\Temp\cef_cache\GPUCache to C:\Windows\Temp\cef_cache\old_GPUCache_000
+[0829/003642:ERROR:cache_creator.cc(127)] Unable to create cache
+[0829/003642:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0829/003642:ERROR:cache_util_win.cc(20)] Unable to move the cache: 0
+[0829/003642:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Windows\Temp\cef_cache\GPUCache to C:\Windows\Temp\cef_cache\old_GPUCache_000
+[0829/003642:ERROR:cache_creator.cc(127)] Unable to create cache
+[0829/003642:ERROR:shader_disk_cache.cc(588)] Shader Cache Creation failed: -2
+[0829/003642:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0829/003642:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Windows\Temp\cef_cache to C:\Windows\Temp\old_cef_cache_000
+[0829/003642:ERROR:cache_creator.cc(127)] Unable to create cache
+[0829/003705:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0829/003705:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0829/003705:WARNING:channel.cc(358)] RawChannel write error
+[0829/003705:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0829/003705:WARNING:raw_channel_win.cc(532)] WriteFile: The pipe is being closed. (0xE8)
+[0829/003705:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0829/003705:ERROR:ipc_channel_win.cc(502)] pipe error: 232
+[0829/003705:ERROR:ipc_channel_win.cc(207)] pipe error: 109
+[0829/003705:WARNING:channel.cc(358)] RawChannel write error

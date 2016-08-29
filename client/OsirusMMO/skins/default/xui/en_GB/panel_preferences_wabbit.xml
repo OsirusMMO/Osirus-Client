@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<panel name="wabbit_viewer">
+    <tab_container name="tabs">
+        <panel name="wabbit_general">
+            <color_swatch name="netmap_chatring_color_swatch"
+                tool_tip="Click to open colour picker" />
+            <color_swatch name="netmap_shoutring_color_swatch"
+                tool_tip="Click to open colour picker" />
+        </panel>
+        <panel name="wabbit_chat">
+            <check_box name="ColourCodedChat"
+                label="Colour code the chat entry boxes according to the session type" />
+        </panel>
+    </tab_container>
+</panel>

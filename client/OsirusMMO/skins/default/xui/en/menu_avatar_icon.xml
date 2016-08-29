@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<menu
+ height="101"
+ layout="topleft"
+ left="100"
+ mouse_opaque="false"
+ name="Avatar Icon Menu"
+ top="724"
+ visible="false"
+ width="128">
+    <menu_item_call
+     label="View Profile"
+     layout="topleft"
+     name="Show Profile">
+        <menu_item_call.on_click
+         function="AvatarIcon.Action"
+         parameter="profile" />
+    </menu_item_call>
+    <menu_item_call
+     label="Add Friend"
+     layout="topleft"
+     name="Add Friend">
+        <menu_item_call.on_click
+         function="AvatarIcon.Action"
+         parameter="add" />
+    </menu_item_call>
+    <menu_item_call
+     label="Remove Friend"
+     layout="topleft"
+     name="Remove Friend">
+        <menu_item_call.on_click
+         function="AvatarIcon.Action"
+         parameter="remove" />
+    </menu_item_call>
+    <menu_item_call
+     label="Send IM"
+     layout="topleft"
+     name="Send IM">
+        <menu_item_call.on_click
+         function="AvatarIcon.Action"
+         parameter="im" />
+    </menu_item_call>
+    <menu_item_call
+     label="Offer Teleport"
+     layout="topleft"
+     name="Offer Teleport">
+        <on_click function="AvatarIcon.Action" parameter="offer_teleport"/>
+    </menu_item_call>
+    <menu_item_call
+     label="Request Teleport"
+     layout="topleft"
+     name="Request Teleport">
+        <on_click function="AvatarIcon.Action" parameter="request_teleport"/>
+    </menu_item_call>
+    <menu_item_call
+     label="Request Teleport"
+     layout="topleft"
+     name="Request Teleport">
+        <on_click function="AvatarIcon.Action" parameter="request_teleport"/>      
+    </menu_item_call>
+    <menu_item_call
+     label="Voice call"
+     layout="topleft"
+     name="Voice Call">
+        <on_click function="AvatarIcon.Action" parameter="voice_call"/>
+    </menu_item_call>
+    <menu_item_call
+     label="Chat history..."
+     layout="topleft"
+     name="Chat History">
+        <on_click function="AvatarIcon.Action" parameter="chat_history"/>   
+    </menu_item_call>
+    <menu_item_separator layout="topleft" name="separator_chat_history"/>
+    <menu_item_call
+     label="Invite To Group"
+     layout="topleft"
+     name="Invite To Group">
+        <menu_item_call.on_click
+         function="AvatarIcon.Action"
+         parameter="invite_to_group" />
+    </menu_item_call>
+    <menu_item_call
+     label="Block Voice"
+     layout="topleft"
+     name="Block Unblock">
+       <on_click function="AvatarIcon.Action" parameter="block_unblock" />
+       <on_check function="AvatarIcon.Check" parameter="is_blocked" />
+    </menu_item_call>
+    <menu_item_check
+     label="Block Text"
+     layout="topleft"
+     name="Mute Text">
+       <on_click function="AvatarIcon.Action" parameter="mute_unmute" />
+       <on_check function="AvatarIcon.Check" parameter="is_muted" />
+    </menu_item_check>
+    <menu_item_call
+     label="Report Abuse"
+     layout="topleft"
+     name="Report Abuse">
+       <on_click function="AvatarIcon.Action" parameter="report_abuse" />
+    </menu_item_call>
+
+    <menu_item_separator />
+
+    <menu
+      label="Copy To Clipboard"
+      name="copy_to_clipboard">
+      <menu_item_call
+        label="Copy Avatar Name"
+        name="Copy Avatar Name">
+        <menu_item_call.on_click
+          function="AvatarIcon.Action"
+	  parameter="copyname" />
+      </menu_item_call>
+      <menu_item_call
+        label="Copy Avatar UUID"
+        name="Copy Avatar UUID">
+        <menu_item_call.on_click
+          function="AvatarIcon.Action"
+	  parameter="copyuuid" />
+      </menu_item_call>
+      <menu_item_call
+        label="Copy Avatar Profile Link"
+        name="Copy Avatar Profile Link">
+        <menu_item_call.on_click
+          function="AvatarIcon.Action"
+	  parameter="copyprofileuri" />
+      </menu_item_call>
+    </menu>
+
+    <menu
+        label="Permissions"
+        name="Permissions">
+        <menu_item_check
+            label="See when I am online"
+            name="See when I am online">
+            <menu_item_check.on_click
+                function="AvatarIcon.Action"
+                parameter="toggle_online_status" />
+            <menu_item_check.on_check
+                function="AvatarIcon.Check"
+                parameter="online_status" />
+        </menu_item_check>
+        <menu_item_check
+            label="Find me on the world map"
+            name="Find me on the world map">
+            <menu_item_check.on_click
+                function="AvatarIcon.Action"
+                parameter="toggle_map_location" />
+            <menu_item_check.on_check
+                function="AvatarIcon.Check"
+                parameter="map_location" />
+            <menu_item_check.on_enable
+                function="AvatarIcon.Check"
+                parameter="online_status" />
+        </menu_item_check>
+        <menu_item_check
+            label="Edit, delete or take my objects"
+            name="Edit, delete or take my objects">
+            <menu_item_check.on_click
+                function="AvatarIcon.Action"
+                parameter="toggle_modify_objects" />
+            <menu_item_check.on_check
+                function="AvatarIcon.Check"
+                parameter="modify_objects" />
+        </menu_item_check>
+    </menu>
+
+    <menu_item_separator />
+
+    <menu_item_call
+     label="Zoom In"
+     layout="topleft"
+     name="Zoom In">
+       <on_click function="AvatarIcon.Action" parameter="zoom_in" />
+    </menu_item_call>
+    <menu_item_call
+     label="Show On Map"
+     layout="topleft"
+     name="Show On Map">
+       <on_click function="AvatarIcon.Action" parameter="map" />
+    </menu_item_call>
+    <menu_item_call
+     label="Share"
+     layout="topleft"
+     name="Share">
+        <menu_item_call.on_click
+         function="AvatarIcon.Action"
+         parameter="share" />
+    </menu_item_call>
+    <menu_item_call
+     label="Pay"
+     layout="topleft"
+     name="Pay">
+        <menu_item_call.on_click
+         function="AvatarIcon.Action"
+         parameter="pay" />
+    </menu_item_call>
+    <menu_item_separator
+     layout="topleft"
+     name="freeze_eject_sep" />
+    <menu_item_call
+     label="Freeze / Unfreeze"
+     layout="topleft"
+     name="ToggleFreeze">
+        <menu_item_call.on_click
+         function="AvatarIcon.Action"
+         parameter="togglefreeze" />
+    </menu_item_call>
+    <menu_item_call
+     label="Eject / Ban"
+     layout="topleft"
+     name="Eject">
+        <menu_item_call.on_click
+         function="AvatarIcon.Action"
+         parameter="eject" />
+    </menu_item_call>
+    <menu_item_call
+     label="Teleport Home"
+     layout="topleft"
+     name="Teleport Home">
+        <menu_item_call.on_click
+         function="AvatarIcon.Action"
+         parameter="teleporthome" />
+    </menu_item_call>
+    <menu_item_call
+     label="Estate Ban"
+     layout="topleft"
+     name="Estate Ban">
+        <menu_item_call.on_click
+         function="AvatarIcon.Action"
+         parameter="estateban" />
+    </menu_item_call>
+</menu>

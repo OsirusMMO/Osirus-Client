@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<panel
+    name="status"
+    follows="top|right"
+    layout="topleft"
+    top="19"
+    left="0"
+    height="19"
+    width="1000"
+    background_opaque="true"
+    background_visible="true"
+    bg_opaque_color="DkGray"
+    chrome="true"
+    mouse_opaque="false"
+    tab_stop="false">
+    <panel.string name="time">
+        [hour12, datetime, slt]:[min, datetime, slt] [ampm, datetime, slt] [timezone,datetime, slt]
+    </panel.string>
+    <panel.string name="timeTooltip">
+        [weekday, datetime, slt], [day, datetime, slt] [month, datetime, slt] [year, datetime, slt]
+    </panel.string>
+    <panel.string name="buycurrencylabel">
+        L$ [AMT]
+    </panel.string>
+
+    <layout_stack
+        name="status_panel"
+        follows="top|right"
+        layout="topleft"
+        top="0"
+        left="-633"
+        width="623"
+        height="19"
+        orientation="horizontal">
+        <layout_panel
+            name="balance_panel"
+            follows="top|left"
+            layout="topleft"
+            height="19"
+            width="60"
+            auto_resize="true"
+            user_resize="false"
+            visible="true">
+            <text
+                name="balance"
+                tool_tip="Click to refresh your L$ balance"
+                follows="all"
+                height="18"
+                width="60"
+                top="0"
+                left="0"
+                v_pad="4"
+                halign="right"
+                wrap="false"
+                value="L$ --" />
+        </layout_panel>
+
+        <layout_panel
+            name="purchase_panel"
+            follows="top|left"
+            layout="topleft"
+            height="19"
+            width="155"
+            auto_resize="false"
+            user_resize="false"
+            visible="true">
+            <button
+                name="buyL"
+                label="Buy L$"
+                tool_tip="Click to buy more L$"
+                follows="top|bottom|left"
+                top="1"
+                left="10"
+                pad_right="0"
+                height="18"
+                width="70"
+                halign="center"
+                image_hover_unselected="PushButton_Over"
+                image_unselected="PushButton_Off"
+                image_pressed="PushButton_Press"
+                label_color="White"
+                label_shadow="true" />
+            <button
+                name="goShop"
+                label="Shop"
+                tool_tip="Open [SECOND_LIFE] Marketplace"
+                follows="top|bottom|left"
+                top="1"
+                left_pad="0"
+                width="70"
+                height="18"
+                halign="left"
+                imgoverlay_label_space="10"
+                image_overlay="Command_MiniCart_Icon"
+                image_overlay_alignment="left"
+                image_hover_unselected="PushButton_Over"
+                image_unselected="PushButton_Off"
+                image_pressed="PushButton_Press"
+                label_color="White"
+                label_shadow="true" />
+        </layout_panel>
+
+        <layout_panel
+            name="time_panel"
+            follows="top|left"
+            layout="topleft"
+            height="19"
+            width="155"
+            auto_resize="false"
+            user_resize="false"
+            visible="true">
+            <text
+                name="TimeText"
+                type="string"
+                tool_tip="Current time (Pacific)"
+                follows="top|left"
+                layout="topleft"
+                top="0"
+                left="10"
+                width="145"
+                height="16"
+                v_pad="4"
+                halign="right"
+                text_readonly_color="TimeTextColor">
+                --:--
+            </text>
+        </layout_panel>
+
+        <layout_panel
+            name="media_panel"
+            follows="top|left"
+            layout="topleft"
+            height="19"
+            width="47"
+            auto_resize="false"
+            user_resize="false"
+            visible="true">
+            <button
+                name="media_toggle_btn"
+                tool_tip="Start/stop all media\n(Music, video, web pages)"
+                follows="top|left"
+                width="16"
+                height="16"
+                top="2"
+                left="10"
+                image_selected="Play_Off"
+                image_unselected="Pause_Off"
+                image_pressed="Pause_Press"
+                image_pressed_selected="Play_Press"
+                is_toggle="true" />
+            <button
+                name="volume_btn"
+                tool_tip="Audio volume levels\n(Click to mute/unmute)"
+                follows="top|left"
+                height="16"
+                width="16"
+                top="2"
+                left_pad="5"
+                image_selected="AudioMute_Off"
+                image_pressed="Audio_Press"
+                image_unselected="Audio_Off"
+                is_toggle="true" />
+        </layout_panel>
+
+        <layout_panel
+            name="draw_distance_panel"
+            follows="top|left"
+            layout="topleft"
+            height="19"
+            width="133"
+            auto_resize="false"
+            user_resize="false"
+            visible="true">
+            <icon
+                name="dd_icon"
+                tool_tip="Draw distance"
+                image_name="Draw_Distance"
+                follows="top|left"
+                height="16"
+                width="16"
+                top="1"
+                left="15"
+                visible="true"
+                scale_image="false" />
+            <slider
+                name="drawdistance2"
+                control_name="RenderFarClip"
+                tool_tip="Maximum distance away from camera to be rezzed (meters)"
+                follows="top|left"
+                layout="topleft"
+                top="2"
+                left_pad="2"
+                height="16"
+                width="105"
+                decimal_digits="0"
+                increment="8"
+                initial_value="160"
+                max_val="1024"
+                min_val="0" />
+        </layout_panel>
+
+        <layout_panel
+            name="statistics_panel"
+            follows="top|left"
+            layout="topleft"
+            height="19"
+            width="26"
+            auto_resize="false"
+            user_resize="false"
+            visible="true">
+            <statistics_graph
+                name="bandwidth_graph"
+                follows="top|left"
+                top="1"
+                left="10"
+                width="8"
+                height="17"
+                units=" Kbps bandwidth in use\n(Click for details)"
+                per_sec="true"
+                mouse_opaque="true">
+                <thresholds>
+                    <threshold value="0.0" color="Green" />
+                    <threshold value="99999" color="Yellow" />
+                    <threshold value="99999" color="Red" />
+                </thresholds>
+            </statistics_graph>
+            <statistics_graph
+                name="packet_loss_graph"
+                follows="top|left"
+                top="1"
+                left_pad="0"
+                width="8"
+                height="17"
+                units="% packet loss\n(Click for details)"
+                max="5"
+                precision="1"
+                mouse_opaque="true">
+                <thresholds>
+                    <threshold value="0.0" color="Green" />
+                    <threshold value="0.25" color="Yellow" />
+                    <threshold value="0.6" color="Red" />
+                </thresholds>
+            </statistics_graph>
+        </layout_panel>
+
+        <layout_panel
+            name="fps_panel"
+            follows="top|left"
+            layout="topleft"
+            height="19"
+            width="29"
+            auto_resize="false"
+            user_resize="false"
+            visible="true">
+            <text
+                name="fps_text"
+                tool_tip="Frames per second\n(Click for details)"
+                type="string"
+                follows="top|left"
+                top="0"
+                left="5"
+                height="16"
+                width="24"
+                v_pad="4"
+                halign="center"
+                wrap="false"
+                mouse_opaque="true">
+                    0.0
+            </text>
+        </layout_panel>
+    </layout_stack>
+</panel>

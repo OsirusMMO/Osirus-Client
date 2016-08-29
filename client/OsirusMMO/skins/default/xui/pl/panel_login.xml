@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<panel name="panel_login">
+	<panel.string name="forgot_password_url">http://secondlife.com/account/request.php</panel.string>
+	<layout_stack name="ui_stack">
+		<layout_panel name="ui_container">
+			<combo_box label="My favorite places" name="start_location_combo">
+				<combo_box.item label="Ostatnia lokalizacja" name="MyLastLocation"/>
+			</combo_box>
+		</layout_panel>
+	</layout_stack>
+</panel>

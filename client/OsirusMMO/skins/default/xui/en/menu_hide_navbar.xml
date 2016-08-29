@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<menu
+ height="201"
+ layout="topleft"
+ left="100"
+ mouse_opaque="false"
+ name="hide_navbar_menu"
+ top="624"
+ visible="false"
+ width="128">
+    <menu_item_check
+         label="Show Navigation &amp; Favorites Bar"
+         layout="topleft"
+         name="ShowNavbarNavigationPanel">
+           <on_click
+             function="ToggleControl"
+             parameter="ShowNavbarNavigationPanel" /> 
+             <on_check
+             function="CheckControl"
+             parameter="ShowNavbarNavigationPanel" />
+    </menu_item_check>
+    <menu_item_check
+         label="Show Mini-Location Bar"
+         layout="topleft"
+         name="ShowMiniLocationPanel">
+           <on_click
+             function="ToggleControl"
+             parameter="ShowMiniLocationPanel" />
+             <on_check
+             function="CheckControl"
+             parameter="ShowMiniLocationPanel" />
+    </menu_item_check>
+
+    <menu_item_separator />
+
+    <menu_item_check
+         label="Show Draw Distance Slider"
+         layout="topleft"
+         name="ShowDDSlider">
+           <on_click
+             function="ToggleControl"
+             parameter="ShowDDSlider" />
+             <on_check
+             function="CheckControl"
+             parameter="ShowDDSlider" />
+    </menu_item_check>
+    <menu_item_check
+         label="Show Network Graphs"
+         layout="topleft"
+         name="ShowNetStats">
+           <on_click
+             function="ToggleControl"
+             parameter="ShowNetStats" />
+             <on_check
+             function="CheckControl"
+             parameter="ShowNetStats" />
+    </menu_item_check>
+    <menu_item_check
+         label="Show FPS Meter"
+         layout="topleft"
+         name="ShowFPSStats">
+           <on_click
+             function="ToggleControl"
+             parameter="ShowFPSStats" />
+             <on_check
+             function="CheckControl"
+             parameter="ShowFPSStats" />
+    </menu_item_check>
+</menu>

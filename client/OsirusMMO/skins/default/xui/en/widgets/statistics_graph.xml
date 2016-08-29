@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<statistics_graph
+    min="0"
+    max="125"
+    precision="0"
+    per_sec="false"
+    color="FrogGreen"
+    background_color="DkGray2"
+    border_color="Black" />
